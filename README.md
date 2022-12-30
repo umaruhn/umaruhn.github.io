@@ -1,6 +1,16 @@
 Train Speedometer
+最寄りの新幹線駅表示、通過駅記録 機能付きスピードメーター
+
+--------------------------------------
+
+サポート
+
+Email: officialnhk@aol.com
 
 Twitter @umaruhn
+https://twitter.com/umaruhn
+
+--------------------------------------
 
 プライバシーポリシー
 
@@ -13,3 +23,19 @@ Twitter @umaruhn
 当ウェブサイトへのリンクは、自由に設置していただいて構いません。 ただし、Webサイトの内容等によってはリンクの設置をお断りすることがあります。
 
 制定：2022年12月7日
+
+--------------------------------------
+
+For English
+
+Privacy Policy
+
+This application does not acquire personal information by itself. Therefore, we do not acquire or request any personal information. Also, in order to use this application, it is necessary to allow the acquisition of location information, but it will not be passed to the developer or any other third party.
+
+We do not take any responsibility for any actions that the user performs using the information of this application. In addition, we shall not be responsible for any damages caused by the user using this application or damages caused by the user to a third party.
+
+The texts, images, and all contents of this app are protected by copyright, portrait rights, etc. Unauthorized use or diversion is prohibited.
+
+You may freely establish a link to this website. However, we may refuse to establish a link depending on the content of the website.
+
+2022/12/7
